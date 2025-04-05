@@ -14,10 +14,11 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "keywords": [
-    "freeCodeCamp",
-    "exercise",
+    "freecodecamp",
     "node",
-    "npm"
+    "npm",
+    "learning",
+    "express"
   ],
   "license": "MIT",
   "author": "Marija Milicevic"
